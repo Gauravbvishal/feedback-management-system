@@ -1,7 +1,7 @@
 import API from "@/lib/api";
 
 export async function submitFeedback(data) {
-  const response = await fetch(`${API}/api/feedback`, {
+  const response = await fetch(`${API}/feedback`, {
     method: "POST",
     headers: {
       "Content-Type": "application/json",
