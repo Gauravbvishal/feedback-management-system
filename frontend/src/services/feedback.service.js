@@ -32,7 +32,7 @@ export async function getFeedback({
   });
 
   const response = await fetch(
-    `${API}/api/feedback?${params.toString()}`
+    `${API}/feedback?${params.toString()}`
   );
 
   const result = await response.json();
