@@ -1,6 +1,7 @@
 # About Project:
 
 ### URL of admin panel:
+##### Project URL:https://feedback-management-system-35hs.vercel.app/
 ##### Dashboard: https://feedback-management-system-35hs.vercel.app/admin/dashboard
 ##### Feedback: https://feedback-management-system-35hs.vercel.app/admin/feedback
 ##### Analytics: https://feedback-management-system35hs.vercel.app/admin/analytics
