@@ -16,9 +16,9 @@ model Admin {
 }
 
 model Feedback {
-  id         Int      @id @default(autoincrement())
-  category   String
-  feedback   String
-  email      String?
-  createdAt  DateTime @default(now())
+  id        Int      @id @default(autoincrement())
+  category  String
+  feedback  String
+  email     String?
+  createdAt DateTime @default(now())
 }
